@@ -1,3 +1,6 @@
+#Github: https://github.com/TaufiqStark
+#Mohon jangan di Recode nanti Error
+
 import random
 import sys
 import os
