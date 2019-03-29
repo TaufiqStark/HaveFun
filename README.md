@@ -7,5 +7,6 @@ cd HaveFun
 python HaveFunProgram.py
 
 
-Menyumbangkan saya di https://paypal.me/DonasiTaufiq
-* hak cipta © 2019 *
+
+Donate me --> https://paypal.me/DonasiTaufiq
+*copyright©2019*
