@@ -8,5 +8,5 @@ python HaveFunProgram.py
 
 
 
-Donate me --> https://paypal.me/DonasiTaufiq
+Donasi saya -> https://paypal.me/DonateTaufiq
 *copyright©2019*
